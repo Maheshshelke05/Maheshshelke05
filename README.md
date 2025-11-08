@@ -26,12 +26,10 @@ I love automating deployments, building serverless solutions, and crafting effic
 
 ### 🧰 Tech Stack  
 
-✅ **Cloud:** AWS  
-✅ **Serverless:** Lambda, EventBridge, S3  
-✅ **CI/CD:** Jenkins, GitHub Actions, CodePipeline  
-✅ **Database:** MySQL, DynamoDB, RDS  
-✅ **Programming:** Python, HTML, CSS, JavaScript  
-✅ **Tools:** Git, VS Code, Linux  
+✅ **Aws services:** Ec2, Vpc, Lambda, CloudFront, Ami, CloudWatch, Rds, DynamoDB, SNS , SQS, Ima, Auto Scaling, Load balancer, S3, Route 53, 
+✅ **Database:** MySQL, DynamoDB, RDS  , SQL, 
+✅ **Programming:** Python, HTML, CSS, JavaScript , 
+✅ **Tools:** Git, VS Code, Linux, Github, Gitlab, bitbucket , jenkins,
 
 ---
 
