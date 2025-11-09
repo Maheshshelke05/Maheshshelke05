@@ -73,21 +73,25 @@ I love creating **automated, scalable, and fault-tolerant cloud systems** 💪
 
 ---
 
-## 📊 GitHub Stats (Live Animated)  
+<!-- ══════════════ GITHUB STATS - PREMIUM ANIMATED ══════════════ -->
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maheshshelke05&theme=tokyonight&hide_border=true&border_radius=12" width="54%" />
-</p>
+## 📊 **GitHub Analytics**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maheshshelke05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshshelke05&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="41%" />
-</p>
+<div align="center">
 
-<!-- 🧩 Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshshelke05&theme=react-dark&radius=12&hide_border=true" width="96%"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Maheshshelke05&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=00D9FF&fire=FFD93D&currStreakLabel=4FFFCF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Maheshshelke05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D9FF&icon_color=FFD93D&text_color=FFFFFF" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshshelke05&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=A459D1&text_color=FFFFFF" width="49%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Maheshshelke05&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" width="49%" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshshelke05&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=FFD93D&point=4FFFCF&area_color=A459D1&area=true&hide_border=true&radius=15" width="98%"/>
+
+<!-- Trophy Section -->
+<img src="https://github-profile-trophy.vercel.app/?username=Maheshshelke05&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="98%"/>
+
+</div>
 
 ---
 
