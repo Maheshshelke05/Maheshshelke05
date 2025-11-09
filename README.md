@@ -92,9 +92,6 @@ I love creating **automated, scalable, and fault-tolerant cloud systems** 💪
 </div>
 
 ---
-
-
-
 <!-- ══════════════ CONNECT WITH ME (Advanced Animated Version) ══════════════ -->
 <p align="center">
 <!-- Typing animation for headline -->
