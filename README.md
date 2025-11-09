@@ -70,7 +70,7 @@ I’m focused on **AWS Cloud, Automation, Serverless Architectures, and CI/CD Pi
 </tr>
 <tr>
 <td><b>💻 Programming & Web</b></td>
-<td>Python, HTML, CSS, JavaScript</td>
+<td>Python, HTML, CSS, JavaScript, PHP,</td>
 <td>• <a href="https://github.com/Maheshshelke05/Air--piano--">Air-Piano 🎹</a></td>
 </tr>
 </table>
