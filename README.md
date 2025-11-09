@@ -66,7 +66,7 @@ I’m focused on **AWS Cloud, Automation, Serverless Architectures, and CI/CD Pi
 <tr>
 <td><b>🗄️ Database Management</b></td>
 <td>MySQL, RDS, DynamoDB, SQL</td>
-<td>• AWS RDS Integration Project (WIP)<br>• DynamoDB CRUD App (WIP)</td>
+<td>• <a href="https://github.com/Maheshshelke05/-Amazon-DynamoDB-">⚡ Amazon DynamoDB</a></td>
 </tr>
 <tr>
 <td><b>💻 Programming & Web</b></td>
