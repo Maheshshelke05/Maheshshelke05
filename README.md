@@ -91,21 +91,7 @@ I love creating **automated, scalable, and fault-tolerant cloud systems** 💪
 
 ---
 
-## 🐍 Animated Contribution Snake  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Maheshshelke05/Maheshshelke05/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 💬 Quote of the Day  
-
-<p align="center">
-  <img src="https://readme-quote.vercel.app/api?theme=tokyonight&quote=Automate%20Everything%2C%20Deploy%20Anywhere%2C%20Scale%20Effortlessly!" />
-</p>
-
----
 
 ## 🌐 Connect with Me  
 
