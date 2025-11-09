@@ -88,8 +88,6 @@ I love creating **automated, scalable, and fault-tolerant cloud systems** 💪
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshshelke05&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=FFD93D&point=4FFFCF&area_color=A459D1&area=true&hide_border=true&radius=15" width="98%"/>
 
-<!-- Trophy Section -->
-<img src="https://github-profile-trophy.vercel.app/?username=Maheshshelke05&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="98%"/>
 
 </div>
 
@@ -97,20 +95,55 @@ I love creating **automated, scalable, and fault-tolerant cloud systems** 💪
 
 
 
-## 🌐 Connect with Me  
-
+<!-- ══════════════ CONNECT WITH ME (Advanced Animated Version) ══════════════ -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Maheshshelke05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<!-- Typing animation for headline -->
+<a href="#">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&center=true&vCenter=true&random=false&width=900&lines=🌐+Let's+Connect!;💼+Collaborate+on+DevOps+%26+Cloud+Projects;🚀+Open+to+Freelance+and+Full-Time+Roles;💡+Innovate.+Create.+Inspire." alt="Animated Let's Connect" />
+</a>
 </p>
 
+
+<!-- Glowing gradient divider -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=header&reversal=true" alt="divider" />
+</p>
+
+
+<!-- Animated floating icons section -->
+<style>
+@keyframes float {
+0% { transform: translateY(0px); }
+50% { transform: translateY(-10px); }
+100% { transform: translateY(0px); }
+}
+.badge-animate img {
+animation: float 3s ease-in-out infinite;
+transition: transform 0.3s;
+}
+.badge-animate img:hover {
+transform: scale(1.15) rotate(2deg);
+}
+</style>
+
+
+<div align="center" class="badge-animate" style="display:flex;gap:15px;flex-wrap:wrap;justify-content:center;">
+<a href="https://www.linkedin.com/in/mahesh-shelke-7497a7315/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:msshelke0505@gmail.com" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/Maheshshelke05" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://medium.com/@maheshshelke05" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="https://mahesh-projects.blogspot.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+</a>
+</div>
 ---
 
 ## 🎯 Visitor Count  
