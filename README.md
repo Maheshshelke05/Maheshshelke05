@@ -26,10 +26,10 @@
 ---
 
 ## 🌟 About Me
-👋 Hi, I’m **Mahesh Shelke**, a passionate **DevOps & Cloud Engineer** from 🇮🇳.  
+👋 Hi, I'm **Mahesh Shelke**, a passionate **DevOps & Cloud Engineer** from 🇮🇳.  
 💡 I focus on **automation, scalability, and efficiency** — transforming manual tasks into smart pipelines.  
 ⚙️ Love working with **AWS Cloud, Serverless, and CI/CD Pipelines**.  
-🎯 My mission: *“Automate Everything. Break Nothing.”*
+🎯 My mission: *"Automate Everything. Break Nothing."*
 
 ---
 
@@ -94,6 +94,13 @@
 
 ---
 
+## 🐍 Watch My Contributions Get Eaten By A Snake!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" width="100%"/>
+</p>
+
+---
+
 ## 🌐 Let's Connect
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&center=true&vCenter=true&width=900&color=00F5A0&lines=Let's+Connect+🌍;Collaborate+on+DevOps+%26+Cloud+Projects+🚀;Open+to+Freelance+%26+Full-Time+Roles+💼;Innovate.+Create.+Inspire.+✨" alt="connect typing"/>
@@ -114,7 +121,7 @@
   <img src="https://profile-counter.glitch.me/Maheshshelke05/count.svg" alt="Visitor Counter"/>
 </p>
 
-<h3 align="center">⚙️ “Code. Automate. Deploy. Repeat.” 💥</h3>
+<h3 align="center">⚙️ "Code. Automate. Deploy. Repeat." 💥</h3>
 
 <!-- 🌊 Animated Footer -->
 <p align="center">
