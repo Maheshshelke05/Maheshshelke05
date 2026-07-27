@@ -22,7 +22,9 @@
 
 <h3 align="center">🚀 DevOps & Cloud Engineer | AWS | Terraform | Docker | Kubernetes | CI/CD | Python</h3>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9FF,100:7C3AED&height=4" width="100%"/>
+</p>
 
 ## 🌟 About Me
 
@@ -42,16 +44,24 @@ I build **production-grade cloud infrastructure** — from zero to scalable, aut
 
 **🎯 Mission:** *"Automate Everything. Break Nothing."*
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9FF,100:7C3AED&height=4" width="100%"/>
+</p>
 
 ## 🚀 Products I've Built (Free & Open Source)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1200&center=true&vCenter=true&width=800&height=40&color=7C3AED&lines=1000%2B+Users+Trust+My+Free+Tools+🚀;Free+Forever.+Open+Source.+Always.+💜" alt="products tagline"/>
+</p>
 
 | # | 🚀 Product | 🛠 Category | 📝 Description | 🔗 Link |
 |:--|:--|:--|:--|:--|
 | 1 | **ScraperDesk** | Desktop App · Lead Generation | Free, open-source desktop app that extracts verified business leads — emails, phone numbers, social links & tech stack — from any website or CSV. No credits, no monthly limits. Helps freelancers & businesses find real clients. | [🌐 Visit](https://www.scraperdesk.in/) |
 | 2 | **Ghotly AI** | Desktop App (Windows) · AI | Free AI-assisted tool for technical interview practice, with live transcription and screen analysis to help students prepare for remote technical interviews. | [🌐 Visit](https://www.ghotlyai.in/) |
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9FF,100:7C3AED&height=4" width="100%"/>
+</p>
 
 ## 🧠 Skills & Tech Stack
 
@@ -125,7 +135,9 @@ I build **production-grade cloud infrastructure** — from zero to scalable, aut
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9FF,100:7C3AED&height=4" width="100%"/>
+</p>
 
 ## 🚀 Other Projects
 
@@ -138,8 +150,6 @@ I build **production-grade cloud infrastructure** — from zero to scalable, aut
 | 3 | **Amazon Price Tracker** | AWS Lambda, SNS, DynamoDB, Serverless | Serverless price monitoring system that tracks Amazon product prices & sends SNS alerts when price drops | [🔗 GitHub](https://github.com/Maheshshelke05/Amazon-Price-Tracker-using-AWS-Services-Serverless.git) |
 | 4 | **Maps Contact Tracker** | Python, Maps API, AWS | Python-based contact location tracker integrated with Maps API and hosted on AWS | [🔗 GitHub](https://github.com/Maheshshelke05/Maps-Contact-Tracker.git) |
 | 5 | **Notes2Cash – Student Platform** | Full Stack, AWS | Full-stack platform enabling students to share & monetize their notes, deployed on AWS | [🔗 GitHub](https://github.com/Maheshshelke05/Notes2Cash---Student-Notes-Sharing-Earning-Platform.git) |
-
----
 
 ### 🏫 Class / Learning Projects
 
@@ -154,7 +164,9 @@ I build **production-grade cloud infrastructure** — from zero to scalable, aut
 | 7 | **Cloud-Native E-Commerce (CI/CD)** | Terraform, EC2, RDS, Jenkins | End-to-end CI/CD pipeline for cloud-native e-commerce with automated build, test & deploy on AWS | [🔗 GitHub](https://github.com/Maheshshelke05/Cloud-Native-E-Commerce-Deployment-Using-Terraform-AWS-EC2-RDS-Jenkins-CI-CD.git) |
 | 8 | **Flask Login/Signup Deployment** | Python Flask, Jenkins, GitHub, AWS EC2 | Automated deployment of a Python Flask auth app using Jenkins pipeline triggered by GitHub webhooks on EC2 | [🔗 GitHub](https://github.com/Maheshshelke05/Automated-Python-Flask-Login-Signup-Deployment-using-Jenkins-GitHub-AWS-EC2.git) |
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9FF,100:7C3AED&height=4" width="100%"/>
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -171,7 +183,19 @@ I build **production-grade cloud infrastructure** — from zero to scalable, aut
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshshelke05&bg_color=0D1117&color=00F5A0&line=FFD93D&point=4FFFCF&area_color=7C3AED&area=true&hide_border=true" width="98%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9FF,100:7C3AED&height=4" width="100%"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maheshshelke05&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9FF,100:7C3AED&height=4" width="100%"/>
+</p>
 
 ## 🐍 Watch My Contributions Get Eaten By A Snake!
 
@@ -179,7 +203,9 @@ I build **production-grade cloud infrastructure** — from zero to scalable, aut
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" width="100%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9FF,100:7C3AED&height=4" width="100%"/>
+</p>
 
 ## 🌐 Let's Connect
 
@@ -201,7 +227,9 @@ I build **production-grade cloud infrastructure** — from zero to scalable, aut
   <a href="https://www.ghotlyai.in/" target="_blank"><img src="https://img.shields.io/badge/Ghotly_AI-000000?style=for-the-badge&logo=windows&logoColor=white"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00D9FF,100:7C3AED&height=4" width="100%"/>
+</p>
 
 ## 🎯 Visitor Count
 
