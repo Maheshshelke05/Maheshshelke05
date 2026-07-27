@@ -4,7 +4,7 @@
 
 <!-- 💫 Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=70&color=00F0FF&lines=Hey+👋+I'm+Mahesh+Shelke;DevOps+%26+Cloud+Engineer;AWS+☁️+Terraform+🏗️+Docker+🐳+Kubernetes+⚓;Building+Production-Ready+Scalable+Systems;Automate+Everything.+Break+Nothing.+💥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=70&color=00F0FF&lines=Hey+👋+I'm+Mahesh+Shelke;DevOps+%26+Cloud+Engineer;AWS+☁️+Terraform+🏗️+Docker+🐳+Kubernetes+⚓;Building+Free+Open-Source+Tools+🚀;Automate+Everything.+Break+Nothing.+💥" alt="Typing Animation" />
 </p>
 
 <!-- 🌈 Animated Header Banner -->
@@ -30,14 +30,26 @@
 
 I'm currently **actively looking for a full-time job** in Cloud / DevOps / AWS. While I'm on that journey, I keep myself sharp by taking on **freelance projects** — building real, production-grade systems for clients and continuously leveling up my skills.
 
+I also build and ship **free, open-source tools for students and developers** — currently crossing **1,000+ new users every month** across my products.
+
 I build **production-grade cloud infrastructure** — from zero to scalable, automated, and cost-optimized systems. My work spans AWS deployments, container orchestration, infrastructure-as-code, and end-to-end CI/CD pipelines.
 
 - 🔍 **Currently:** Open to full-time Cloud / DevOps / AWS roles
 - 💼 **Freelancing:** Building real-world projects to stay hands-on & grow
+- 🚀 **Building:** Free, open-source tools — ScraperDesk & Ghotly AI (1,000+ new users/month)
 - 🌱 **Learning:** Always exploring new tools, services & best practices
 - 🤝 **Open to:** Collaborations, freelance work & exciting opportunities
 
 **🎯 Mission:** *"Automate Everything. Break Nothing."*
+
+---
+
+## 🚀 Products I've Built (Free & Open Source)
+
+| # | 🚀 Product | 🛠 Category | 📝 Description | 🔗 Link |
+|:--|:--|:--|:--|:--|
+| 1 | **ScraperDesk** | Desktop App · Lead Generation | Free, open-source desktop app that extracts verified business leads — emails, phone numbers, social links & tech stack — from any website or CSV. No credits, no monthly limits. Helps freelancers & businesses find real clients. | [🌐 Visit](https://www.scraperdesk.in/) |
+| 2 | **Ghotly AI** | Desktop App (Windows) · AI | Free AI-assisted tool for technical interview practice, with live transcription and screen analysis to help students prepare for remote technical interviews. | [🌐 Visit](https://www.ghotlyai.in/) |
 
 ---
 
@@ -115,9 +127,9 @@ I build **production-grade cloud infrastructure** — from zero to scalable, aut
 
 ---
 
-## 🚀 Projects
+## 🚀 Other Projects
 
-### 🧑💻 Personal Projects
+### 🧑‍💻 Personal Projects
 
 | # | 🚀 Project | 🛠 Tech Stack | 📝 Description | 🔗 Link |
 |:--|:--|:--|:--|:--|
@@ -172,7 +184,7 @@ I build **production-grade cloud infrastructure** — from zero to scalable, aut
 ## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&color=00F5A0&lines=Let's+Connect+🌍;Open+to+Cloud+%2F+DevOps+%2F+AWS+Roles+🚀;Collaborate+on+Production+Infrastructure+💼;Innovate.+Build.+Scale.+✨" alt="connect typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&color=00F5A0&lines=Let's+Connect+🌍;Open+to+Cloud+%2F+DevOps+%2F+AWS+Roles+🚀;Try+ScraperDesk+%26+Ghotly+AI+for+Free+🛠️;Innovate.+Build.+Scale.+✨" alt="connect typing"/>
 </p>
 
 <p align="center">
@@ -182,6 +194,11 @@ I build **production-grade cloud infrastructure** — from zero to scalable, aut
   <a href="https://medium.com/@maheshshelke05" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://x.com/Maheshshelke055" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.instagram.com/mahesh_tech_05" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.scraperdesk.in/" target="_blank"><img src="https://img.shields.io/badge/ScraperDesk-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.ghotlyai.in/" target="_blank"><img src="https://img.shields.io/badge/Ghotly_AI-000000?style=for-the-badge&logo=windows&logoColor=white"/></a>
 </p>
 
 ---
